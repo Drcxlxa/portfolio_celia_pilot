@@ -1,0 +1,108 @@
+@import "../../vars.css";
+
+.container {
+  background: linear-gradient(#608192, 40%, #263B46);
+  padding-top: 7%;
+  padding-bottom: 6%;
+}
+
+.title {
+    color: #FFF;
+    font-family: 'hpunk', sans-serif;
+    font-size: 90px;
+    text-align: center;
+    padding-bottom:100px; 
+}
+
+.description {
+  color: #FFF;
+  padding: 20px 10% 0px 10%;
+  font-size: 22px;
+  text-align: center;
+}
+  
+.projects {
+  padding: 100px 5% 0px 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.project {
+  display: flex;
+  position: relative;
+  text-align: center;
+  flex-direction: column;
+  z-index: 3;
+  background-color: #FFE8D7;
+  padding: 130px 180px;
+  margin: 10px 10px;
+  border-radius: 5px;
+  transition: transform 0.3s ease-in-out, background-color 0.6s ease-in-out; /* Ajoutez la transition pour la couleur */
+}
+
+.project:hover {
+  background-color: #FFF5ED;
+  transform: scale(0.95); /* Réduisez la taille à 95% */
+}
+
+.project img {
+  border-radius: 10px;
+} 
+
+.projectTitle {
+  position: absolute;
+  color: #608192;
+  top: 50%;
+  left: 50%;
+  font-size: 24px;
+  font-weight: 700;
+  transform: translate(-50%, -50%);
+}
+  
+.tortue4 {
+  position: absolute;
+  z-index:1;
+  margin-top: -650px; 
+  left: -350px;
+  animation-name: test;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes test {
+  0% {
+    transform: translate(0, 30px);
+  }
+  50% {
+    transform: translate(0, 0px);
+  }
+  100% {
+    transform: translate(0, 30px);
+  }
+}
+
+.tortue2 {
+  position: absolute;
+  z-index:1;
+  margin-top: 300px; 
+  left: 1100px;
+  animation-name: floating;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes floating {
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 30px);
+  }
+  100% {
+    transform: translate(0, 0px);
+  }
+}

@@ -1,0 +1,49 @@
+@import "../../vars.css";
+
+.container {
+  background-image: url("/assets/about/vague5.png"); 
+  background-size: cover;
+}
+
+.contenu {
+  padding-top:400px;
+  padding-bottom:50px;
+}
+
+.title {
+  color: #FFF;
+  font-family: 'hpunk', sans-serif;
+  font-size: 90px;
+  text-align: center;
+}
+
+.description {
+  color: #FFF;
+  padding: 100px 10% 0px 10%;
+  font-size: 22px;
+  text-align: center;
+  font-weight: 200;
+}
+
+.flamantrose1 {
+  position: absolute;
+  height:25%;
+  margin-top: -300px; 
+  margin-left: 1080px; 
+  animation-name: rotate;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: steps;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg) translate(0, 0px);
+  }
+  50% {
+    transform: rotate(45deg) translate(0, 0px);
+  }
+  100% {
+    transform: rotate(0deg) translate(0, -0px);
+  }
+}

@@ -1,0 +1,112 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding-top: 7%;
+  padding-bottom: 2%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 180px;
+  color: #FFF;
+  text-shadow: 5px 10px 15px #B99F8A;
+  font-family: 'hpunk', sans-serif;
+  margin-bottom:10px;
+}
+
+.description {
+  font-size: 40px;
+  color: #FFF;
+  text-shadow: 5px 1px 8px #B99F8A;
+  font-family: 'hpunk', sans-serif;
+  margin-bottom:70px;
+}
+
+.containerBtn {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap:30px;
+}
+.contactBtn {
+  /* text-decoration: none;
+  background-color: #C0A997;
+  color: #FFF;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 17px 26px; */
+
+  text-decoration: none;
+    color: #B99F8A;
+    font-size: 55px;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+.contactBtn2 {
+  /* text-decoration: none;
+  background-color: #C0A997;
+  color: #FFF;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 17px 26px; */
+
+  text-decoration: none;
+    color: #B99F8A;
+    font-size: 65px;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+.contactBtn:hover {
+  color: #A08876;
+}
+
+.contactBtn2:hover {
+  color: #A08876;
+}
+
+
+.tortue1{
+  position: absolute;
+  margin-left: -1700px; 
+  animation-name: rotate;
+  animation-duration: 200s;
+  animation-iteration-count: infinite;
+  animation-timing-function: steps;
+}
+
+
+@keyframes rotate {
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(500, 900px);
+  }
+  100% {
+    transform: translate(1800px, 300px);
+  }
+}
+  
+  @media screen and (max-width: 830px) {
+    .container {
+      flex-direction: column-reverse;
+    }
+  
+    .content {
+      align-items: center;
+    }
+  }
