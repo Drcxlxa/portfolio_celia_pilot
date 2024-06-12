@@ -13,7 +13,7 @@ export const Experience = () => {
                 {/* <img src={getImageUrl("about/vague3.png")} className={styles.vague5}> */}
                 {/* </img> */}
                 <h2 className={styles.title}>A propos de moi</h2>
-                <h3 className={styles.description}>Salut ! Je m'appelle Célia Pilot et je suis en troisième année de BUT MMI, à Chambéry. Etant curieuse et envieuse de tout découvrir depuis toute petite, le monde du multumédia me permet aujourd'hui de toucher à tout et de développer mes compétences dans de nombreux domaines variés.</h3>
+                <h3 className={styles.description}>Salut ! Je m'appelle Célia Pilot et je suis en troisième année de BUT MMI, à Chambéry. Etant curieuse et envieuse de tout découvrir depuis toute petite, le monde du multumédia me permet aujourd'hui de toucher à tout et de développer mes compétences dans de nombreux domaines variés. Test GitHub</h3>
             </div>
         </section>
     );
