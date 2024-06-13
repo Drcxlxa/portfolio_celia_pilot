@@ -103,7 +103,20 @@
   font-weight: 700;
   transform: translate(-50%, -50%);
   font-size: 28px;
-  font-weight: 700;
+  z-index: 2; /* Assurez-vous que le titre est au-dessus du filtre */
+  opacity: 0; /* Le texte est caché par défaut */
+  transition: opacity 0.3s ease-in-out;
+}
+
+.projectTitle2 {
+  position: absolute;
+  color: #263B46;
+  top: 75%;
+  left: 50%;
+  font-style: italic;
+  font-weight: 300;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
   z-index: 2; /* Assurez-vous que le titre est au-dessus du filtre */
   opacity: 0; /* Le texte est caché par défaut */
   transition: opacity 0.3s ease-in-out;
@@ -114,6 +127,10 @@
 }
 
 .project:hover .projectTitle {
+  opacity: 1; /* Afficher le texte lors du survol */
+}
+
+.project:hover .projectTitle2 {
   opacity: 1; /* Afficher le texte lors du survol */
 }
 

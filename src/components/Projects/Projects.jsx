@@ -5,22 +5,25 @@ import styles from './Projects.module.css';
 
 export const Projects = () => {
     const projects = [
-        { id: 1, title: 'Intégration de contenus', category: 'Web Development', imageUrl: getImageUrl('projects/contenu.png') },
-        { id: 2, title: 'Projets 3D', category: '3D Design', imageUrl: getImageUrl('projects/3D.png') },
-        { id: 3, title: 'Traduction', category: 'Translation', imageUrl: getImageUrl('projects/traduction.png') },
-        { id: 4, title: 'Customisation css', category: 'Web Development', imageUrl: getImageUrl('projects/css.jpeg') },
-        { id: 5, title: 'Testing de site', category: 'Quality Assurance', imageUrl: getImageUrl('projects/testing.jpg') },
-        { id: 6, title: 'Projet Frise Chronologique', category: 'Web Development', imageUrl: getImageUrl('projects/frise.png') },
-        { id: 7, title: 'Serre Connectée', category: 'IoT', imageUrl: getImageUrl('projects/serreconnecte.png') },
-        { id: 8, title: 'La vie est belle', category: 'Personal Projects', imageUrl: getImageUrl('projects/Lavieestbelle.png') },
-        { id: 9, title: 'Mon portfolio', category: 'Personal Projects', imageUrl: getImageUrl('projects/portfolio.png') },
+        { id: 1, title: 'Intégration de contenus', title2: 'Alternance', categories: ['Alternance'], imageUrl: getImageUrl('projects/contenu.png') },
+        { id: 2, title: 'Projets 3D', title2: 'Alternance', categories: ['Alternance', 'Design'], imageUrl: getImageUrl('projects/3D.png') },
+        { id: 3, title: 'Traduction de sites', title2: 'Alternance', categories: ['Alternance'], imageUrl: getImageUrl('projects/traduction.png') },
+        { id: 4, title: 'Customisation css', title2: 'Alternance', categories: ['Alternance','Développement web'], imageUrl: getImageUrl('projects/css.jpeg') },
+        { id: 5, title: 'Testing de site', title2: 'Alternance', categories: ['Alternance'], imageUrl: getImageUrl('projects/testing.jpg') },
+        { id: 6, title: 'Frise Chronologique', title2: 'Alternance', categories: ['Alternance', 'Développement web'], imageUrl: getImageUrl('projects/frise.png') },
+        { id: 7, title: 'Serre Connectée', title2: 'Projet Universitaire', categories: ['Développement web'], imageUrl: getImageUrl('projects/serreconnecte.png') },
+        { id: 8, title: 'La vie est belle', title2: 'Projet Universitaire', categories: ['Développement web'], imageUrl: getImageUrl('projects/Lavieestbelle.png') },
+        { id: 9, title: 'Mon portfolio', title2: 'Projet Universitaire', categories: ['Développement web'], imageUrl: getImageUrl('projects/portfolio.png') },
+        { id: 10, title: 'Maquette de site', title2: 'Projet personnel', categories: ['Design', 'Projets Personnels'], imageUrl: getImageUrl('projects/maquetteirene.png') },
+        { id: 11, title: 'API Rest', title2: 'Projet Universitaire', categories: ['Développement web'], imageUrl: getImageUrl('projects/meteo.png') },
+        { id: 12, title: 'Jeu vidéo', title2: 'Projet Universitaire', categories: ['Développement web'], imageUrl: getImageUrl('projects/serpomme.png') },
     ];
 
     const [selectedCategory, setSelectedCategory] = useState('All');
 
-    const categories = ['All', 'Web Development', '3D Design', 'Translation', 'Quality Assurance', 'IoT', 'Personal Projects'];
+    const categories = ['All', 'Alternance', 'Développement web', 'Design', 'Projets Personnels'];
 
-    const filteredProjects = selectedCategory === 'All' ? projects : projects.filter(project => project.category === selectedCategory);
+    const filteredProjects = selectedCategory === 'All' ? projects : projects.filter(project => project.categories.includes(selectedCategory));
 
     return (
         <section className={styles.container} id="projects">
@@ -45,6 +48,7 @@ export const Projects = () => {
                         <Link to={`/project/${project.id}`}>
                             <h3 className={styles.projectTitle}>{project.title}</h3>
                         </Link>
+                        <h4 className={styles.projectTitle2}>{project.title2}</h4>
                     </div>
                 ))}
                 <img src={getImageUrl("projects/Tortue2.png")} alt="Hero myself" className={styles.tortue2} />

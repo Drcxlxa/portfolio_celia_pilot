@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Integration de contenus",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "soustitle1": "Design de la page Anode Coating",
+        "soustitle1": "Design de la page Anode Coating.",
         "description1": "L'objectif ici était de redesigner la page Anode Coating du site web Scantech. Scantech possède différentes brochures papiers, dont la brochure papier de l'Anode Coating. Mon objectif était donc de m'inspirer de la brochure afin de changer la page, qui manquait d'informations et de clarté, et de la rendre plus compréhensible.",
         "imageUrl": [
             "projects/im1et1AV.png"
@@ -43,7 +43,6 @@
         "imageUrls5": [
             "projects/im1et5AP.png"
         ],
-        "outils": "Outils",
         "competence": "Competences du programme MMI3",
         "competence1": "Développer à l’aide d’un framework de développement côté serveur",
         "competence2": "Développer à l’aide d’un framework de développement côté serveur",
@@ -54,7 +53,7 @@
         "id": 2,
         "title": "Projets 3D",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "soustitle1": "Mettre a jour les logos sur chaque produit dans Blender",
+        "soustitle1": "Mettre a jour les logos sur chaque produit dans Blender.",
         "description1": "Ce travail m'a permis de prendre en main le logiciel Blender, dans l'objectif d'aider sur les petits projets 3D. J'ai donc appris à utiliser le logiciel pour mettre à jour le logo de Scantech sur chacun des Scanners, pour les expoter et les intégrer ensuite sous forme d'images dans le site internet.",
         "imageUrl": [
             "projects/im2et1AV.png"
@@ -62,7 +61,7 @@
         "imageUrls": [
             "projects/im2et1AP.png"
         ],
-        "soustitle2": "Peindre les scanners dans Blender",
+        "soustitle2": "Peindre les scanners dans Blender.",
         "description2": "Ce travail m'a lui aussi permis d'apprendre à utiliser le logiciel Blender. J'ai commencé à peindre et à faire des tests sur pleins de Scanners pour mieux comprendre le fonctiononement du logiciel. Puis par la suite j'ai peint un vrai scanner pour l'intégrer dans le site internet.  ",
         "imageUrl2": [
             "projects/im2et2AV.png"
@@ -70,7 +69,7 @@
         "imageUrls2": [
             "projects/fondbeige.png"
         ],
-        "soustitle3": "Animer les produits Scantech",
+        "soustitle3": "Animer les produits Scantech.",
         "description3": "L'objectif était de mettre à jour les animations de Scanners déjà présentes sur le site, et qui étaient faites sur After Effect. J'ai donc du apprendre là aussi à utiliser Blender pour réaliser ces animations. Nous avons commencé à les exporter sous forme vidéos et à les intégrer dans le site internet. ",
         "imageUrl3": [
             "projects/im2et2AV.png"
@@ -95,7 +94,7 @@
         "id": 3,
         "title": "Traduction",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "soustitle1": "Traduire le header et le footer du site internet Scantech dans les 6 langues",
+        "soustitle1": "Traduire le header et le footer du site internet Scantech dans les 6 langues.",
         "description1": "Lors de la création du site internet Scantech dans les autres langues, il y a eu des problèmes de traduction automatique pour le header et le footer. J'ai donc tratuit le contenu manuellement.",
         "imageUrl": [
             "projects/im3et1AV.png"
@@ -103,7 +102,7 @@
         "imageUrls": [
             "projects/im3et1AP.png"
         ],
-        "soustitle2": "Traduire chaque page du site internet Scantech dans les 6 langues",
+        "soustitle2": "Traduire chaque page du site internet Scantech dans les 6 langues.",
         "description2": "Il y avait de nombreuses erreurs de traductions parmis les pages du site internet Scantech, et c'était problématique lorsque je souhaitais modifier une page. J'ai donc vérifié et ajouté la traduction manquante à plus de 400 pages, manuellement.",
         "imageUrl2": [
             "projects/im3et2AV.png"
@@ -111,7 +110,7 @@
         "imageUrls2": [
             "projects/im3et2AP.png"
         ],
-        "soustitle3": "Traduire les produits Scantech, leurs filtres et leurs categories dans les 6 langues",
+        "soustitle3": "Traduire les produits Scantech, leurs filtres et leurs categories dans les 6 langues.",
         "description3": "Là aussi la traduction automatique ne s'était pas effectuée, ce qui créé des bugs d'affichage dans les autres langues. J'ai dû ajouter manuellement la traduction de chaque produits, et de leurs catégories et filtres.",
         "imageUrl3": [
             "projects/im3et3AV.png"
@@ -119,7 +118,7 @@
         "imageUrls3": [
             "projects/im3et3AP.png"
         ],
-        "soustitle4": "Traduire le header, le footer ainsi que chaque page du site chinois Scantech.cn dans la langue chinoise",
+        "soustitle4": "Traduire le header, le footer ainsi que chaque page du site chinois Scantech.cn dans la langue chinoise.",
         "description4": "Sur le site chinois j'ai fait le même travail, j'ai vérifié et ajouté la traduction manquante, si nécessaire, de chaque page.",
         "imageUrl4": [
             "projects/im3et4AV.png"
@@ -216,7 +215,7 @@
     },
     {
         "id": 6,
-        "title": "Projet frise Chronologique",
+        "title": "Frise Chronologique",
         "title2": "Missions réalisées dans le cadre de l'alternance",
         "soustitle1": "Creation d’une frise chronologique.",
         "description1": "L'objectif est de créer une frise chronologique en React.js afin de mettre en avant toutes les dates importantes qu'à connu l'entreprise Scantech. Le projet est réalisé avec Axel Genin.",
@@ -226,7 +225,7 @@
         "imageUrls": [
             "projects/im6et1AP.png"
         ],
-        "soustitle2": "Projet a venir : Creation d'un plugin Wordpress",
+        "soustitle2": "Projet a venir : Creation d'un plugin Wordpress.",
         "description2": "Une fois la frise chronologique terminée, nous souhaitons créer un plugin Wordpress ayant pour objectif de modifier facilement le contenu de la frise chronologique créée en React.js. Le but est de rendre le contenu changeable facilement et que ce soit accessible à tout le monde, et tout niveau.",
         "imageUrl2": [
             "projects/fondbeige.png"
@@ -251,72 +250,85 @@
         ],
         "imageUrls5": [
             "projects/fondbeige.png"
-        ]
+        ],
+        "competence": "Competences du programme MMI3",
+        "competence1": "Développer à l’aide d’un framework de développement côté client : React.js",
+        "competence2": "Piloter un produit, un service ou une équipe"
     },
     {
         "id": 7,
         "title": "Serre Connectee",
-        "title2": "Projet réalisé dans le cadre des cours à l'IUT",
-
+        "title2": "Projet réalisé dans le cadre Universitaire",
         "soustitle1": "En quoi consistait le projet ?",
-        "description1": "Dans le cadre de notre SAE universitaire et par groupe de 4, nous avons eu pour projet de créer une serre connectée autonome et pilotable manuellement. Dans ce projet, je me suis occupée de l’aspect IOT (programmation Arduino et câblage des différents capteurs)",
+        "description1": "Le projet consiste à concevoir une serre connectée, contrôlée grâce à une interface utilisateur  via une application web. Cette serre est équipée de nombreux capteurs, permettant de récupérer en temps réel différentes données telles que la température, l'humidité, la vitesse du vent et le niveau d'eau. L’utilisateur peut donc grâce à l’application web, surveiller les données de chaque capteur et ainsi contrôler les conditions à l’intérieur de la serre. La serre est aussi dotée de deux autres fonctionnalités : un système d’arrosage afin contrôler l’arrosage des plantes et un système d’ouverture et fermeture des portes, grâce à un moteur présent dans la serre, afin de gérer la température intérieure de la serre. Finalement l’utilisateur peut gérer les capteurs et fonctionnalités de la serre, grâce à l’application web, de manière manuelle mais aussi de manière automatique.",
         "imageUrl": [
-            "projects/im6et1AV.png"
+            "projects/serre2.png"
         ],
         "imageUrls": [
-            "projects/im6et1AP.png"
+            "projects/serre1.png"
         ],
-        "soustitle2": "Maquette de l'interface",
-        "description2": "Une fois la frise chronologique terminée, nous souhaitons créer un plugin Wordpress ayant pour objectif de modifier facilement le contenu de la frise chronologique créée en React.js. Le but est de rendre le contenu changeable facilement et que ce soit accessible à tout le monde, et tout niveau.",
+        "soustitle2": "Maquette de l'interface.",
+        "description2": "Au début de ce projet, j'ai principalement été en charge de la maquette de l'interface utilisateur pour l'application web. Il a fallu être efficace et créatif rapidement pour permettre à Théo de se lancer dans le développement de l'application web. J'ai pris beaucoup de plaisir à réaliser cette maquette, avec l'aide de Mathys Cunsolo. ",
         "imageUrl2": [
-            "projects/fondbeige.png"
+            "projects/maquetteserre1.png"
         ],
         "imageUrls2": [
-            "projects/fondbeige.png"
+            "projects/maquetteserre2.png"
         ],
-        "soustitle3": "Progammation Arduino",
-        "description3": "Dès que nous avons eu besoin de faire plus que ce que dont certains plugins étaient capables, je leur ai ajouté du style en Css.",
+        "soustitle3": "Progammation Arduino.",
+        "description3": "Avec Jade et Mathys, nous avons a tour de rôle réalisé la programmation de chacun des capteurs présents dans la serre connectée. J'ai donc développé mes compétences et connaissances en Arduino grâce à ce projet, notamment en effectuant avec Jade le code du moteur, du capteur de température ainsi que celui de l'anémomètre.",
         "imageUrl3": [
-            "projects/fondbeige.png"
+            "projects/codearduino1.png"
         ],
         "imageUrls3": [
-            "projects/fondbeige.png"
+            "projects/codearduino2.png"
         ],
+        "soustitle4": "Gestion de projet.",
+        "description4": "Tout le long du projet nous avons tenu un Trello afin de rester organisés, de répartir les tâches équitablement et de gérer notre temps comme il le faut. Cela nous a permis de développer nos compétences en gestion de projet et travail d'équipe.",
         "imageUrl4": [
-            "projects/fondbeige.png"
+            "projects/serretrello.png"
         ],
         "imageUrls4": [
-            "projects/fondbeige.png"
+            "projects/petitfondbeige.png"
         ],
+        "soustitle5": "Construction de la serre.",
+        "description5": "Finalement nous avons finalisé la construction de la serre et ça a vraiment été la meilleure partie du projet car nous étions vraiment libres.",
         "imageUrl5": [
-            "projects/fondbeige.png"
+            "projects/serreconstrucion.png"
         ],
         "imageUrls5": [
-            "projects/fondbeige.png"
-        ]
+            "projects/serreconstruction2.png"
+        ],
+        "competence": "Competences du programme MMI3",
+        "competence1": "Développer des dispositifs interactifs sophistiqués : Arduino",
+        "competence4": "Concevoir et développer des composants logiciels, plugins ou extensions",
+        "competence2": "Piloter un produit, un service ou une équipe",
+        "competence3": "Maîtriser la qualité en projet Web ou multimédia"
     },
     {
         "id": 8,
-        "title": "Projet frise Chronologique",
-        "title2": "Missions réalisées dans le cadre de l'alternance",
+        "title": "Site internet :  La vie est belle",
+        "title2": "Projet réalisé dans le cadre Universitaire",
+        "soustitle1": "En quoi consistait le projet ?",
+        "description1": "L'objectif du projet était de réaliser un site internet pour un cliente que notre université nous avait fournie. Nous devions donc réaliser un projet de A à Z: gestion de projet, réunion avec la cliente, maquettage, charte graphique, logo, rédaction de contenus, SEO, développment du site internet.",
         "imageUrl": [
-            "projects/im6et1AV.png"
+            "projects/lvbmaquette1.png"
         ],
         "imageUrls": [
-            "projects/im6et1AP.png"
+            "projects/lvbmaquette2.png"
         ],
-        "soustitle1": "Creation d’une frise chronologique.",
-        "description1": "L'objectif est de créer une frise chronologique en React.js et c'est un projet qui est réalisé avec Axel Genin.",
-        "soustitle2": "Projet a venir : Creation d'un plugin Wordpress",
-        "description2": "Une fois la frise chronologique terminée, nous souhaitons créer un plugin Wordpress ayant pour objectif de modifier facilement le contenu de la frise chronologique créée en React.js. Le but est de rendre le contenu changeable facilement et que ce soit accessible à tout le monde, et tout niveau.",
+        "soustitle2": "Developpement du site internet.",
+        "description2": "Durant ce projet, j'ai personnellement été en charge du développement du site internet La vie est belle. Je suis très fière de ce projet et du rendu final. C'est l'un des projets les plus complets que j'ai effectué jusqu'à maintenant. J'ai donc développé ce site sur le cms Wordpress, en Html, css, du Javascript et finalement du PHP.",
         "imageUrl2": [
-            "projects/fondbeige.png"
+            "projects/lvbmaquette3.png"
         ],
         "imageUrls2": [
-            "projects/fondbeige.png"
+            "projects/lvbmaquette4.png"
         ],
+        "soustitle3": "Hebergement du site.",
+        "description3": "Une fois le site internet terminé, je l'ai hébergé sur OVH à la demande des clientes.",
         "imageUrl3": [
-            "projects/fondbeige.png"
+            "projects/lvbmaquette5.png"
         ],
         "imageUrls3": [
             "projects/fondbeige.png"
@@ -332,45 +344,184 @@
         ],
         "imageUrls5": [
             "projects/fondbeige.png"
-        ]
+        ],
+        "competence": "Competences du programme MMI3",
+        "competence1": "Maitriser l'hébergement et le déploiement d'applications"
     },
     {
         "id": 9,
         "title": "Mon portfolio",
-        "title2": "Missions réalisées dans le cadre de l'alternance",
+        "title2": "Projet réalisé dans le cadre Universitaire",
+        "soustitle1": "Creation d’une maquette.",
+        "description1": "L'objectif était de créer un portfolio pour mettre en avant les projets que j'ai réalisés, et pour montrer mes compétences acquises. Pour cela j'ai donc commencé par créer une maquette sur le logiciel Figma. J'ai décidé de partir sur le thème de l'été car c'est ma saison préféré et je voulais faire voyager le visiteur.",
         "imageUrl": [
-            "projects/im6et1AV.png"
+            "projects/portfoliomaquette1.png"
         ],
         "imageUrls": [
-            "projects/im6et1AP.png"
+            "projects/portfoliomaquette2.png"
         ],
-        "soustitle1": "Creation d’une frise chronologique.",
-        "description1": "L'objectif est de créer une frise chronologique en React.js et c'est un projet qui est réalisé avec Axel Genin.",
-        "soustitle2": "Projet a venir : Creation d'un plugin Wordpress",
-        "description2": "Une fois la frise chronologique terminée, nous souhaitons créer un plugin Wordpress ayant pour objectif de modifier facilement le contenu de la frise chronologique créée en React.js. Le but est de rendre le contenu changeable facilement et que ce soit accessible à tout le monde, et tout niveau.",
+        "soustitle2": "Developpement du portfolio.",
+        "description2": "Une fois la maquette terminée, j'ai commencé à développer mon portfolio, avec  le framework React.js, car c'est un langage de programmation que je souhaitais apprendre. J'ai donc regardé de nombreuses vidéos ainsi que des documentations pour apprendre et comprendre le concept et le fonctionnement de ce framework.",
         "imageUrl2": [
-            "projects/fondbeige.png"
+            "projects/portfoliocode1.png"
         ],
         "imageUrls2": [
-            "projects/fondbeige.png"
+            "projects/codeportfolio2.png"
         ],
+        "soustitle3": "Hebergement sur Netlify.",
+        "description3": "Une fois le portfolio bien avancé, j'ai décidé de l'héberger gratuitement sur Netlify, grâce à mon compte Github. J'ai donc appris à déployer mon site grâce à des commandes Git.",
         "imageUrl3": [
-            "projects/fondbeige.png"
+            "projects/githubportfolio.png"
         ],
         "imageUrls3": [
-            "projects/fondbeige.png"
+            "projects/netlifyportfolio.png"
         ],
         "imageUrl4": [
-            "projects/fondbeige.png"
+            "projects/petitfondbeige.png"
         ],
         "imageUrls4": [
-            "projects/fondbeige.png"
+            "projects/petitfondbeige.png"
         ],
         "imageUrl5": [
-            "projects/fondbeige.png"
+            "projects/petitfondbeige.png"
         ],
         "imageUrls5": [
-            "projects/fondbeige.png"
+            "projects/petitfondbeige.png"
+        ],
+        "competence": "Competences du programme MMI3",
+        "competence1": "Développer à l’aide d’un framework de développement côté client : React.js",
+        "competence2": "Maitriser l'hébergement et le déploiement d'applications"
+    },
+    {
+        "id": 10,
+        "title": "Maquette de site : Irene Franc",
+        "title2": "Projet réalisé dans un cadre personnel",
+        "soustitle1": "Creation d’une maquette.",
+        "description1": "Pour le moment j'en suis qu'à l'étape de la création d'une maquette. Avec Irène Franc nous avons déjà eu plusieurs entretiens pour que je puisse comprendre ses besoins et ses souhaits. Suite à ça j'ai commencé à réalisé la maquette et à rédiger du contenu. Désormais il ne me reste plus qu'à avoir un dernier retour de sa part ainsi qu'un peu plus de contenus texte avant d'intégrer le site internet.",
+        "imageUrl": [
+            "projects/irene1.png"
+        ],
+        "imageUrls": [
+            "projects/irene2.png"
+        ],
+        "soustitle2": "Visuels de la page Approche.",
+        "imageUrl2": [
+            "projects/irene3.png"
+        ],
+        "imageUrls2": [
+            "projects/Irene4.png"
+        ],
+        "soustitle3": "Visuels de la page Qi-Quong.",
+        "imageUrl3": [
+            "projects/irene5.png"
+        ],
+        "imageUrls3": [
+            "projects/irene6.png"
+        ],
+        "soustitle4": "Visuels de la page Sophrologie.",
+        "imageUrl4": [
+            "projects/irene7.png"
+        ],
+        "imageUrls4": [
+            "projects/irene8.png"
+        ],
+        "soustitle5": "Visuels de la page Modalites.",
+        "imageUrl5": [
+            "projects/irene9.png"
+        ],
+        "imageUrls5": [
+            "projects/irene10.png"
         ]
+    },
+    {
+        "id": 11,
+        "title": "Api Rest",
+        "title2": "Projet réalisé dans le cadre Universitaire",
+        "soustitle1": "Creation d'un service web recuperant une Api de meteo.",
+        "description1": "L’objectif du TP était de spécifier et réaliser un service Web basique de récupération du bulletin météorologique à partir de l’API de Météo France. Pour ce projet j'ai décidé  j’ai décidé d’utiliser la technologie node.js car c’est celle dont j’ai le plus connaissance, et j’ai donc premièrement installé l’environnement de développement d'API POSTMAN puis j’ai effectué une requête API en utilisant l’opération GET et en mettant l’URL de Météo France. ",
+        "imageUrl": [
+            "projects/api00.png"
+        ],
+        "imageUrls": [
+            "projects/api01.png"
+        ],
+        "soustitle2": " Developpement de l’application.",
+        "description2": "Tout d’abord j’ai créé la structure de mon projet en respectant le MVC. J’ai ensuite réalisé une suite de commande avec npm / mkdir afin d'initialiser le projet, d'installer des dépendances, créer des dossiers et une commande touch pour créer des fichiers vides, qui sont server.js, WeatherController.js, WeatherRoutes.js et le fichier .env.",
+        "imageUrl2": [
+            "projects/api1.png"
+        ],
+        "imageUrls2": [
+            "projects/api2.png"
+        ],
+        "soustitle3": "Projet avec weather api - 1.",
+        "description3": "Donc ici on définit des fonctions, on vérifie les méthodes, on définit différentes constantes, on stocke des informations et on vérifie que la requête est bien effectuée. Ensuite on recherche si on a les informations dans la ville, et si c'est le cas on récupère les données et on les envoie dans le fichier vue, afin de pouvoir traiter les données en HTML et les styliser. Par la suite le fichier WeatherRoutes.js, on importe la dépendance express ainsi que le fichier WeatherController, on définit la fonction WeatherRoutes.js et on l'exporte. Puis on définit une route http Get pour l'URL Weather/:city (city qui est un nom de ville à informer. Finalement on export l’objet Router qui contient l’information de la route, et qui sera donc importer dans un autre fichier.",
+        "imageUrl3": [
+            "projects/api3.png"
+        ],
+        "imageUrls3": [
+            "projects/api4.png"
+        ],
+        "soustitle4": " Projet avec weather api - 2.",
+        "description4": "Dans le fichier server.js, on importe les dépendances ainsi que le fichier WeatherRoutes. Ensuite on charge et récupère les variables d’environnement depuis le fichier .env, on autorise que les requêtes de type GET en provenance du site web du projet, on définit une route GET pour weather/ :city avec les routes définies dans WeatherRoutes puis finalement on démarre le serveur en écoutant sur les ports spécifiés. Dans le fichier weather.ejs, on récupère les données JSON sous forme de variable que l’on peut utiliser dans notre HTML, ce qui va me permettre de les styliser en CSS",
+        "imageUrl4": [
+            "projects/api5.png"
+        ],
+        "imageUrls4": [
+            "projects/api6.png"
+        ],
+        "soustitle5": "Exemples",
+        "imageUrl5": [
+            "projects/api7.png"
+        ],
+        "imageUrls5": [
+            "projects/api8.png"
+        ],
+        "competence": "Competences du programme MMI3",
+        "competence1": "Développer à l’aide d’un framework de développement côté serveur : Node.js"
+    },
+    {
+        "id": 12,
+        "title": "Jeu Video Serpomme",
+        "title2": "Projet réalisé dans le cadre Universitaire",
+        "soustitle1": "Creation d'un jeu video en duo.",
+        "description1": "L’objectif de ce projet était de réaliser un jeu vidéo sur le logiciel Processing afin de l'intégrer plus tard sur une borne d'arcade. J'ai donc réalisé ce jeu avec Mathys Cunsolo durant la deuxième année de BUT MMI.",
+        "imageUrl": [
+            "projects/serpomme1.png"
+        ],
+        "imageUrls": [
+            "projects/serpomme2.png"
+        ],
+        "soustitle2": "Code Arduino.",
+        "description2": "Le code se divise en trois composants. Nous avons le composant principal qui est le jeu en lui même, c'est a dire les déplacement, le fond, les cases, le temps du jeu, le système de gain et de perte... Nous avons ensuite le code des serpents, dans lequel on génère leur visuel, et qui doivent pouvoir se diriger selon les commandes que choisissent les utilisateurs. Et enfin nous avons le code de la pomme, dans lequel on génère juste son visuel, et qui a pour but de se générer aléatoirement dans la map.",
+        "imageUrl2": [
+            "projects/serpomme3.png"
+        ],
+        "imageUrls2": [
+            "projects/serpomme4.png"
+        ],
+        "soustitle3": "Reste du code.",
+        "imageUrl3": [
+            "projects/serpomme5.png"
+        ],
+        "imageUrls3": [
+            "projects/petitfondbeige.png"
+        ],
+        "soustitle4": "Autres visuels.",
+        "imageUrl4": [
+            "projects/serpomme6.png"
+        ],
+        "imageUrls4": [
+            "projects/serpomme7.png"
+        ],
+        "imageUrl5": [
+            "projects/petitfondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/petitfondbeige.png"
+        ],
+        "competence": "Competences du programme MMI3",
+        "competence1": "Développer des dispositifs interactifs sophistiqués : Processing",
+        "competence2": "Piloter un produit, un service ou une équipe",
+        "competence3": "Maitriser la qualité en projet web ou multimédia"
     }
 ]

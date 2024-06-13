@@ -1,13 +1,14 @@
 .navbar {
   position: fixed; /* Fixe la barre de navigation en haut de la page */
   background-color: rgba(255,	232, 215); /* Couleur de fond avec transparence */
-  width: 98%;
+
+  width: 60%;
   display: flex;
   align-items: center;
-  justify-content: right; /* Pour espacer les éléments */
+  justify-content: center; /* Pour espacer les éléments */
   padding: 20px 5%; /* Espacement interne */
   z-index: 1000; /* Assurez-vous que la barre de navigation est au-dessus du contenu */
-  margin:10px 20px 10px 20px;
+  margin:10px 0px 10px 20%;
   border-radius: 10px;
 }
 
