@@ -14,7 +14,7 @@ export const Hero = () => {
                 </p>
                 <div className={styles.containerBtn}>
                     <a href="mailto:celia19.pilot01@gmail.com" className={styles.contactBtn}><ImMail4 className={styles.icon2} /></a>
-                    <a href="#experience" className={styles.contactBtn2}><IoArrowDownCircle className={styles.icon2} /></a>
+                    <a href="#apropos" className={styles.contactBtn2}><IoArrowDownCircle className={styles.icon2} /></a>
                 </div>
             </div>
             <img src={getImageUrl("hero/tortue1.png")} alt="Hero myself" className={styles.tortue1}></img>

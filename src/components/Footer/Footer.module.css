@@ -1,0 +1,30 @@
+@import "../../vars.css";
+
+.navbar {
+    background: #0D191F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  .menu2 {
+    display: flex;
+    flex-direction : row;
+    gap:200px;
+    font-size: 20px;
+    margin-top:50px;
+    margin-bottom:50px;
+  }
+
+  .menu2 a {
+    color: #FFF;
+    text-decoration : none;
+  }
+  
+  .menuItems a:hover { 
+    color: #A08A7A;
+    text-decoration:underline;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 0.2rem;
+  }

@@ -27,7 +27,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin:150px 15px 150px 15px;
+  margin:200px 15px 200px 15px;
 
   
   .title {
@@ -114,10 +114,7 @@
 }
 
 .container3 {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  z-index: 1;
+  margin-top:20px;
 }
 
 
@@ -128,32 +125,30 @@
   justify-content: start;
   flex-direction: column;
   z-index: auto;
-  margin:10%;
+  margin:100px;
 
-  .soustitle {
+  .competence {
     font-family: 'hpunk', sans-serif;
     text-align: center;
     padding-bottom:50px; 
     font-size: 40px;
     color: #FFF;
   }
+
+  .competences {
+    text-align: center;
+    padding-bottom:20px; 
+    font-size: 22px;
+  color: #FFF;
+  }
 }
 
 
-
-
-
-
-
-
-
-
-/* .tortue4 {
+.tortue4 {
   position: absolute;
   z-index: auto;
-  width:20%;
-  margin-top: 140px; 
-  left: 20px;
+  width:30%;
+  left: -200px;
   animation-name: test;
   animation-duration: 10s;
   animation-iteration-count: infinite;
@@ -175,9 +170,9 @@
 .tortue2 {
   position: absolute;
   z-index: 1;
-  width:10%;
-  margin-top: 800px; 
+  width:30%; 
   left: 1400px;
+  Top:-20px;
   animation-name: floating;
   animation-duration: 10s;
   animation-iteration-count: infinite;
@@ -194,7 +189,7 @@
   100% {
     transform: translate(0, 0px);
   }
-} */
+}
 
 
 

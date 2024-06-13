@@ -20,6 +20,36 @@
   font-size: 22px;
   text-align: center;
 }
+
+
+.categoryFilter {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction : row;
+  justify-content: center;
+  margin-top:100px;
+  z-index:80;
+  gap:20px;
+}
+
+.categoryFilter button {
+  margin-right: 10px;
+  padding: 20px 40px;
+  font-size:16px;
+  border: none;
+  background-color: #FFE8D7;
+  cursor: pointer;
+  z-index:80;
+  border-radius: 5px;
+  color: #263B46;
+}
+
+.categoryFilter .activeCategory {
+  background-color: #ED5F9A;
+  color: #FFE8D7;
+}
+
+
   
 .projects {
   padding: 100px 5% 0px 5%;
@@ -27,43 +57,76 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 20px;
+  z-index:80;
 }
 
 .project {
-  display: flex;
   position: relative;
   text-align: center;
   flex-direction: column;
-  z-index: 3;
-  background-color: #FFE8D7;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   padding: 130px 180px;
   margin: 10px 10px;
   border-radius: 5px;
-  transition: transform 0.3s ease-in-out, background-color 0.6s ease-in-out; /* Ajoutez la transition pour la couleur */
+  transition: transform 0.3s ease-in-out, background-color 0.6s ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  height: 300px;
+  width: 400px;
+  overflow: hidden;
+  z-index:80;
 }
 
-.project:hover {
-  background-color: #FFF5ED;
-  transform: scale(0.95); /* Réduisez la taille à 95% */
-}
 
-.project img {
-  border-radius: 10px;
-} 
+.project::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0);
+  transition:  0.3s ease-in-out;
+  z-index: 1; /* Assurez-vous que le filtre est sous le titre */
+}
 
 .projectTitle {
   position: absolute;
-  color: #608192;
+  color: #263B46;
   top: 50%;
   left: 50%;
-  font-size: 24px;
   font-weight: 700;
   transform: translate(-50%, -50%);
+  font-size: 28px;
+  font-weight: 700;
+  z-index: 2; /* Assurez-vous que le titre est au-dessus du filtre */
+  opacity: 0; /* Le texte est caché par défaut */
+  transition: opacity 0.3s ease-in-out;
 }
+
+.project:hover::after {
+  background: rgba(250, 250, 250, 0.9); /* Filtre sombre lors du survol */
+}
+
+.project:hover .projectTitle {
+  opacity: 1; /* Afficher le texte lors du survol */
+}
+
+.project:hover {
+  transform: scale(0.95);
+}
+
+
+
   
 .tortue4 {
   position: absolute;
-  z-index:1;
+  z-index:auto;
   margin-top: -650px; 
   left: -350px;
   animation-name: test;
@@ -71,6 +134,7 @@
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
 }
+
 
 @keyframes test {
   0% {
@@ -106,3 +170,4 @@
     transform: translate(0, 0px);
   }
 }
+

@@ -3,133 +3,374 @@
         "id": 1,
         "title": "Integration de contenus",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "imageUrls": [
-            "projects/video.png"
-        ],
-        "imageUrl": [
-            "projects/test.png"
-        ],
         "soustitle1": "Design de la page Anode Coating",
-        "description1": "L'objecitf ici était de redesigner la page Anode Coating du site web Scantech. Scantech possède différentes brochures papiers, dont la brochure papier de l'Anode Coating. Mon objectif était donc de m'inspirer de la brochure afin de changer la page, qui manquait d'informations et de clarté, et de la rendre plus compréhensible.",
+        "description1": "L'objectif ici était de redesigner la page Anode Coating du site web Scantech. Scantech possède différentes brochures papiers, dont la brochure papier de l'Anode Coating. Mon objectif était donc de m'inspirer de la brochure afin de changer la page, qui manquait d'informations et de clarté, et de la rendre plus compréhensible.",
+        "imageUrl": [
+            "projects/im1et1AV.png"
+        ],
+        "imageUrls": [
+            "projects/im1et1AP.png"
+        ],
         "soustitle2": "Mise a jour des trombinoscopes de chaque pays.",
         "description2": "L'objectif était de présenter les équipes de Scantech par pays. Le visuel était déjà réalisé et mon travail était d'intégrer les noms de chaque personne de la Scantech Family. ",
+        "imageUrl2": [
+            "projects/im1et2AV.png"
+        ],
+        "imageUrls2": [
+            "projects/im1et2AP.png"
+        ],
         "soustitle3": "Mise a jour de la page Evenement.",
         "description3": "L'objectif était d'utiliser un nouveau plugin M.E.C Calendar, afin d'améliorer la page Evenement déjà préexistante. L'ajout du plugin nous permet désormais de rendre la page plus visuelle, avec des images, des dates et des lieux bien visibles, et surtout de les classer, par types d'évènements ou par dates.",
+        "imageUrl3": [
+            "projects/im1et3AV.png"
+        ],
+        "imageUrls3": [
+            "projects/im1et3AP.png"
+        ],
         "soustitle4": "Integration des offres d’emplois que propose Scantech.",
         "description4": "Je devais intégrer sur le site toutes les offres d'emplois que proposait Scantech. Une partie des offres d'emplois devaient être mises en ligne avant le début de l'évènement The Tech&Fest qui avait lieu à Grenoble, afin que les étudiants et travailleurs interressés puissent se renseigner et postuler. Dans un autre moment j'ai aussi intégré une fiche de poste dans la page carrière du site en Allemand.",
-        "soustitle5": "Mise a jour de la page Videos.",
-        "description5": "Je devais mettre à jour la page Vidéos ",
-        "imageUrl2": [
-            "skills/css.png"
+        "imageUrl4": [
+            "projects/im1et4AV.png"
         ],
-        "imageUrl3": [
-            "skills/html.png"
-        ]
+        "imageUrls4": [
+            "projects/im1et4AP.png"
+        ],
+        "soustitle5": "Mise a jour de la page Videos.",
+        "description5": "Je devais mettre à jour la page Vidéos et changer le fonctionnement de la page. A l'origine, les différentes vidéos étaient simplement des blocs d'images cliquables, et l'objectif était d'utiliser le système de posts, utilisés généralement pour des blogs, et qui permet de classer le contenu par catégories et d'afficher des informations supplémentaires comme la date du post, le lieu... ",
+        "imageUrl5": [
+            "projects/im1et5AV.png"
+        ],
+        "imageUrls5": [
+            "projects/im1et5AP.png"
+        ],
+        "outils": "Outils",
+        "competence": "Competences du programme MMI3",
+        "competence1": "Développer à l’aide d’un framework de développement côté serveur",
+        "competence2": "Développer à l’aide d’un framework de développement côté serveur",
+        "competence3": "Développer à l’aide d’un framework de développement côté serveur",
+        "competence4": "Développer à l’aide d’un framework de développement côté serveur"
     },
     {
         "id": 2,
         "title": "Projets 3D",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "imageUrls": [
-            "projects/test.png"
-        ],
         "soustitle1": "Mettre a jour les logos sur chaque produit dans Blender",
         "description1": "Ce travail m'a permis de prendre en main le logiciel Blender, dans l'objectif d'aider sur les petits projets 3D. J'ai donc appris à utiliser le logiciel pour mettre à jour le logo de Scantech sur chacun des Scanners, pour les expoter et les intégrer ensuite sous forme d'images dans le site internet.",
+        "imageUrl": [
+            "projects/im2et1AV.png"
+        ],
+        "imageUrls": [
+            "projects/im2et1AP.png"
+        ],
         "soustitle2": "Peindre les scanners dans Blender",
         "description2": "Ce travail m'a lui aussi permis d'apprendre à utiliser le logiciel Blender. J'ai commencé à peindre et à faire des tests sur pleins de Scanners pour mieux comprendre le fonctiononement du logiciel. Puis par la suite j'ai peint un vrai scanner pour l'intégrer dans le site internet.  ",
+        "imageUrl2": [
+            "projects/im2et2AV.png"
+        ],
+        "imageUrls2": [
+            "projects/fondbeige.png"
+        ],
         "soustitle3": "Animer les produits Scantech",
         "description3": "L'objectif était de mettre à jour les animations de Scanners déjà présentes sur le site, et qui étaient faites sur After Effect. J'ai donc du apprendre là aussi à utiliser Blender pour réaliser ces animations. Nous avons commencé à les exporter sous forme vidéos et à les intégrer dans le site internet. ",
-        "imageUrl2": [
-            "skills/css.png"
-        ],
         "imageUrl3": [
-            "skills/html.png"
+            "projects/im2et2AV.png"
+        ],
+        "imageUrls3": [
+            "projects/im2et3AP.png"
+        ],
+        "imageUrl4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl5": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/fondbeige.png"
         ]
     },
     {
         "id": 3,
         "title": "Traduction",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "imageUrls": [
-            "projects/video.png"
-        ],
-        "soustitle1": "Traduire le header et le footer dans 6 langues",
+        "soustitle1": "Traduire le header et le footer du site internet Scantech dans les 6 langues",
         "description1": "Lors de la création du site internet Scantech dans les autres langues, il y a eu des problèmes de traduction automatique pour le header et le footer. J'ai donc tratuit le contenu manuellement.",
-        "soustitle2": "Traduire chaque page dans 6 langues",
-        "description2": "Il y avait de nombreuses erreurs de traductions parmis les pages du site internet Scantech, et c'était problématique lorsque je souhaitais modifier une page. J'ai donc vérifié et ajouté la traduction manquante à plus de 400 pages, manuellement.",
-        "soustitle3": "Mettre a jour le menu de navigation sur mobile dans les 6 langues",
-        "description3": "Sur Wordpress le menu de navigation du header est fait deux fois, une fois pour la version PC et une fois pour la version mobile. J'ai donc réalisé aussi la traduction de la version mobile qui ne s'était pas faite.",
-        "soustitle4": "Traduire les produits Scantech, leurs filtres et leur categorie dans 6 langues",
-        "description4": "Là aussi la traduction automatique ne s'était pas effectuée, ce qui créé des bugs d'affichage dans les autres langues. J'ai dû ajouter manuellement la traduction de chaque produits, et de leurs catégories et filtres.",
-        "soustitle5": "Traduire chaque page dans la langue chinoise",
-        "description5": "Sur le site chinois j'ai fait le même travail, j'ai vérifié et ajouté la traduction manquante, si nécessaire, de chaque page",
-        "imageUrl2": [
-            "skills/css.png"
+        "imageUrl": [
+            "projects/im3et1AV.png"
         ],
+        "imageUrls": [
+            "projects/im3et1AP.png"
+        ],
+        "soustitle2": "Traduire chaque page du site internet Scantech dans les 6 langues",
+        "description2": "Il y avait de nombreuses erreurs de traductions parmis les pages du site internet Scantech, et c'était problématique lorsque je souhaitais modifier une page. J'ai donc vérifié et ajouté la traduction manquante à plus de 400 pages, manuellement.",
+        "imageUrl2": [
+            "projects/im3et2AV.png"
+        ],
+        "imageUrls2": [
+            "projects/im3et2AP.png"
+        ],
+        "soustitle3": "Traduire les produits Scantech, leurs filtres et leurs categories dans les 6 langues",
+        "description3": "Là aussi la traduction automatique ne s'était pas effectuée, ce qui créé des bugs d'affichage dans les autres langues. J'ai dû ajouter manuellement la traduction de chaque produits, et de leurs catégories et filtres.",
         "imageUrl3": [
-            "skills/html.png"
+            "projects/im3et3AV.png"
+        ],
+        "imageUrls3": [
+            "projects/im3et3AP.png"
+        ],
+        "soustitle4": "Traduire le header, le footer ainsi que chaque page du site chinois Scantech.cn dans la langue chinoise",
+        "description4": "Sur le site chinois j'ai fait le même travail, j'ai vérifié et ajouté la traduction manquante, si nécessaire, de chaque page.",
+        "imageUrl4": [
+            "projects/im3et4AV.png"
+        ],
+        "imageUrls4": [
+            "projects/im3et4AP.png"
+        ],
+        "imageUrl5": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/fondbeige.png"
         ]
     },
     {
         "id": 4,
         "title": "Customisation Css",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "imageUrls": [
-            "projects/video.png"
-        ],
-        "soustitle1": "Customisation d’un menu de langue déroulant pour changer la langue du site internet.",
+        "soustitle1": "Customisation d’un menu de langue deroulant pour changer la langue du site internet.",
         "description1": " Je devais simplement customiser le menu déroulant qui n'était pas comme on le souhaitais visuellement.",
+        "imageUrl": [
+            "projects/im4et1AV.png"
+        ],
+        "imageUrls": [
+            "projects/fondbeige.png"
+        ],
         "soustitle2": "Customisation du menu principal mobile.",
         "description2": "J'ai remarqué que le scroll interne du menu mobile ne fonctionnait pas, ce qui nous empêchait d'avoir accès à toutes les redirections du menu. J'ai donc stylisé en Css le menu pour régler ce problème.",
+        "imageUrl2": [
+            "projects/im4et2AV.png"
+        ],
+        "imageUrls2": [
+            "projects/fondbeige.png"
+        ],
         "soustitle3": "Customisation de certains plugins dont la stylisation integree etait limitee.",
         "description3": "Dès que nous avons eu besoin de faire plus que ce que dont certains plugins étaient capables, je leur ai ajouté du style en Css.",
-        "imageUrl2": [
-            "skills/css.png"
-        ],
         "imageUrl3": [
-            "skills/html.png"
+            "projects/im4et3AV.png"
+        ],
+        "imageUrls3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl5": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/fondbeige.png"
         ]
     },
     {
         "id": 5,
         "title": "Testing de site",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "imageUrls": [
-            "projects/video.png"
-        ],
         "soustitle1": "Testing de chaque page dans les 6 langues.",
         "description1": "L'objectif était de trouver et régler tous les petits problèmes sur les pages: liens qui redirigient mal, problèmes de contenus ou d'images en général, boutons qui ne fonctionnent pas...",
+        "imageUrl": [
+            "projects/im5et1AV.png"
+        ],
+        "imageUrls": [
+            "projects/fondbeige.png"
+        ],
         "soustitle2": "Testing de chaque pages dans le site chinois.",
         "description2": "L'objectif était le même que pour le site Scantech principal.",
         "imageUrl2": [
-            "skills/css.png"
+            "projects/im5et2AV.png"
+        ],
+        "imageUrls2": [
+            "projects/fondbeige.png"
         ],
         "imageUrl3": [
-            "skills/html.png"
+            "projects/fondbeige.png"
+        ],
+        "imageUrls3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl5": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/fondbeige.png"
         ]
     },
     {
         "id": 6,
         "title": "Projet frise Chronologique",
         "title2": "Missions réalisées dans le cadre de l'alternance",
-        "imageUrls": [
-            "projects/video.png"
+        "soustitle1": "Creation d’une frise chronologique.",
+        "description1": "L'objectif est de créer une frise chronologique en React.js afin de mettre en avant toutes les dates importantes qu'à connu l'entreprise Scantech. Le projet est réalisé avec Axel Genin.",
+        "imageUrl": [
+            "projects/im6et1AV.png"
         ],
-        "soustitle1": "Création d’une frise chronologique.",
-        "description1": "L'objectif est de créer une frise chronologique en React.js. C'est un projet en lien avec Axel Genin.",
-        "soustitle2": "Traduire chaque page dans 6 langues",
-        "description2": "Il y avait de nombreuses erreurs de traductions parmis les pages du site internet Scantech, et c'était problématique lorsque je souhaitais modifier une page. J'ai donc vérifié et ajouté la traduction manquante à plus de 400 pages, manuellement.",
-        "soustitle3": "Mettre a jour le menu de navigation sur mobile dans les 6 langues",
-        "description3": "Sur Wordpress le menu de navigation du header est fait deux fois, une fois pour la version PC et une fois pour la version mobile. J'ai donc réalisé aussi la traduction de la version mobile qui ne s'était pas faite.",
-        "soustitle4": "Traduire les produits Scantech, leurs filtres et leur categorie dans 6 langues",
-        "description4": "Là aussi la traduction automatique ne s'était pas effectuée, ce qui créé des bugs d'affichage dans les autres langues. J'ai dû ajouter manuellement la traduction de chaque produits, et de leurs catégories et filtres.",
-        "soustitle5": "Traduire chaque page dans la langue chinoise",
-        "description5": "Sur le site chinois j'ai fait le même travail, j'ai vérifié et ajouté la traduction manquante, si nécessaire, de chaque page",
+        "imageUrls": [
+            "projects/im6et1AP.png"
+        ],
+        "soustitle2": "Projet a venir : Creation d'un plugin Wordpress",
+        "description2": "Une fois la frise chronologique terminée, nous souhaitons créer un plugin Wordpress ayant pour objectif de modifier facilement le contenu de la frise chronologique créée en React.js. Le but est de rendre le contenu changeable facilement et que ce soit accessible à tout le monde, et tout niveau.",
         "imageUrl2": [
-            "skills/css.png"
+            "projects/fondbeige.png"
+        ],
+        "imageUrls2": [
+            "projects/fondbeige.png"
         ],
         "imageUrl3": [
-            "skills/html.png"
+            "projects/fondbeige.png"
+        ],
+        "imageUrls3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl5": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/fondbeige.png"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Serre Connectee",
+        "title2": "Projet réalisé dans le cadre des cours à l'IUT",
+
+        "soustitle1": "En quoi consistait le projet ?",
+        "description1": "Dans le cadre de notre SAE universitaire et par groupe de 4, nous avons eu pour projet de créer une serre connectée autonome et pilotable manuellement. Dans ce projet, je me suis occupée de l’aspect IOT (programmation Arduino et câblage des différents capteurs)",
+        "imageUrl": [
+            "projects/im6et1AV.png"
+        ],
+        "imageUrls": [
+            "projects/im6et1AP.png"
+        ],
+        "soustitle2": "Maquette de l'interface",
+        "description2": "Une fois la frise chronologique terminée, nous souhaitons créer un plugin Wordpress ayant pour objectif de modifier facilement le contenu de la frise chronologique créée en React.js. Le but est de rendre le contenu changeable facilement et que ce soit accessible à tout le monde, et tout niveau.",
+        "imageUrl2": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls2": [
+            "projects/fondbeige.png"
+        ],
+        "soustitle3": "Progammation Arduino",
+        "description3": "Dès que nous avons eu besoin de faire plus que ce que dont certains plugins étaient capables, je leur ai ajouté du style en Css.",
+        "imageUrl3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl5": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/fondbeige.png"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Projet frise Chronologique",
+        "title2": "Missions réalisées dans le cadre de l'alternance",
+        "imageUrl": [
+            "projects/im6et1AV.png"
+        ],
+        "imageUrls": [
+            "projects/im6et1AP.png"
+        ],
+        "soustitle1": "Creation d’une frise chronologique.",
+        "description1": "L'objectif est de créer une frise chronologique en React.js et c'est un projet qui est réalisé avec Axel Genin.",
+        "soustitle2": "Projet a venir : Creation d'un plugin Wordpress",
+        "description2": "Une fois la frise chronologique terminée, nous souhaitons créer un plugin Wordpress ayant pour objectif de modifier facilement le contenu de la frise chronologique créée en React.js. Le but est de rendre le contenu changeable facilement et que ce soit accessible à tout le monde, et tout niveau.",
+        "imageUrl2": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls2": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl5": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/fondbeige.png"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Mon portfolio",
+        "title2": "Missions réalisées dans le cadre de l'alternance",
+        "imageUrl": [
+            "projects/im6et1AV.png"
+        ],
+        "imageUrls": [
+            "projects/im6et1AP.png"
+        ],
+        "soustitle1": "Creation d’une frise chronologique.",
+        "description1": "L'objectif est de créer une frise chronologique en React.js et c'est un projet qui est réalisé avec Axel Genin.",
+        "soustitle2": "Projet a venir : Creation d'un plugin Wordpress",
+        "description2": "Une fois la frise chronologique terminée, nous souhaitons créer un plugin Wordpress ayant pour objectif de modifier facilement le contenu de la frise chronologique créée en React.js. Le but est de rendre le contenu changeable facilement et que ce soit accessible à tout le monde, et tout niveau.",
+        "imageUrl2": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls2": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls3": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls4": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrl5": [
+            "projects/fondbeige.png"
+        ],
+        "imageUrls5": [
+            "projects/fondbeige.png"
         ]
     }
 ]

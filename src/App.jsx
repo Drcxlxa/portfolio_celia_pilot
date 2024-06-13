@@ -1,30 +1,3 @@
-// import styles from "./App.module.css"
-// import './fonts/fonts.css';
-// import { About } from "./components/About/About";
-// import { Contact } from "./components/Contact/Contact";
-// import { Experience } from "./components/Experience/Experience";
-// import { Hero } from "./components/Hero/Hero";
-// import { Navbar } from "./components/Navbar/Navbar";
-// import { Projects } from "./components/Projects/Projects";
-
-// function App() {
-
-//   return (
-//     <>
-//       <div className={styles.App}>
-//         <Navbar />
-//         <Hero />
-//         <Experience />
-//         <About />
-//         <Projects />
-//         <Contact />
-//       </div>
-//     </>
-//   )
-// }
-
-// export default App
-
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './fonts/fonts.css';
@@ -34,7 +7,8 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Projects } from "./components/Projects/Projects";
 import { ProjectDetail } from "./components/ProjectDetail/ProjectDetail";
-import { Navbar } from "./components/Navbar/Navbar"; // Importez la Navbar ici
+import { Footer} from "./components/Footer/Footer";
+import { Navbar } from "./components/Navbar/Navbar"; 
 import styles from "./App.module.css";
 
 const Home = () => {
@@ -46,6 +20,7 @@ const Home = () => {
       <About />
       <Projects />
       <Contact />
+      <Footer />
     </>
   );
 };

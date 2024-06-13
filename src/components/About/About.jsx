@@ -12,7 +12,7 @@ import { VscChecklist } from "react-icons/vsc";
 export const About = () => {
     return (
 
-        <section className={styles.container} id="apropos">
+        <section className={styles.container}>
             {/* <img src={getImageUrl("about/flamantrose1.png")} className={styles.flamantrose1}></img> */}
             {/* <img src={getImageUrl("about/vague3.png")} className={styles.vague5}> */}
             {/* </img> */}
