@@ -43,11 +43,11 @@
         "imageUrls5": [
             "projects/im1et5AP.png"
         ],
-        "competence": "Competences du programme MMI3",
-        "competence1": "Développer à l’aide d’un framework de développement côté serveur",
-        "competence2": "Développer à l’aide d’un framework de développement côté serveur",
-        "competence3": "Développer à l’aide d’un framework de développement côté serveur",
-        "competence4": "Développer à l’aide d’un framework de développement côté serveur"
+        "competence": "Competences developpees",
+        "competence1": "Apprentissage de Wordpress et Divi",
+        "competence2": "Design",
+        "competence3": "Evolution du site avec l'ajout de plugins",
+        "competence4": "Maîtriser la qualité en projet Web ou multimédia"
     },
     {
         "id": 2,
@@ -88,7 +88,12 @@
         ],
         "imageUrls5": [
             "projects/fondbeige.png"
-        ]
+        ],
+        "competence": "Competences developpees",
+        "competence1": "Apprentissage du logiciel Blender",
+        "competence2": "Réalisation d'animations sur Blender",
+        "competence3": "Apprentissage à l'utilisation de Cloudlfare",
+        "competence4": "Optimisation et évolution du site"
     },
     {
         "id": 3,
@@ -103,7 +108,7 @@
             "projects/im3et1AP.png"
         ],
         "soustitle2": "Traduire chaque page du site internet Scantech dans les 6 langues.",
-        "description2": "Il y avait de nombreuses erreurs de traductions parmis les pages du site internet Scantech, et c'était problématique lorsque je souhaitais modifier une page. J'ai donc vérifié et ajouté la traduction manquante à plus de 400 pages, manuellement.",
+        "description2": "Il y avait de nombreuses erreurs de traduction parmis les pages du site internet Scantech, et c'était problématique lorsque je souhaitais modifier une page. J'ai donc vérifié et ajouté la traduction manquante à plus de 400 pages, manuellement.",
         "imageUrl2": [
             "projects/im3et2AV.png"
         ],
@@ -131,7 +136,13 @@
         ],
         "imageUrls5": [
             "projects/fondbeige.png"
-        ]
+        ],
+        "competence": "Competences developpees",
+        "competence1": "Apprentissage d'utilisation de plugins (maxmegamenu, WPML, woocommerce...)",
+        "competence2": "Adaptation à de nombreuses langues",
+        "competence3": "Patience et détermination",
+        "competence4": "Maîtriser la qualité en projet Web ou multimédia",
+        "competence5": "Optimisation et évolution du site"
     },
     {
         "id": 4,
@@ -172,7 +183,10 @@
         ],
         "imageUrls5": [
             "projects/fondbeige.png"
-        ]
+        ],
+        "competence": "Competences developpees",
+        "competence1": "Customisation CSS",
+        "competence2": "Optimisation et évolution du site"
     },
     {
         "id": 5,
@@ -211,7 +225,10 @@
         ],
         "imageUrls5": [
             "projects/fondbeige.png"
-        ]
+        ],
+        "competence": "Competences developpees",
+        "competence1": "Patience",
+        "competence2": "Maîtriser la qualité en projet Web ou multimédia"
     },
     {
         "id": 6,
@@ -251,9 +268,11 @@
         "imageUrls5": [
             "projects/fondbeige.png"
         ],
-        "competence": "Competences du programme MMI3",
+        "competence": "Competences developpees",
         "competence1": "Développer à l’aide d’un framework de développement côté client : React.js",
-        "competence2": "Piloter un produit, un service ou une équipe"
+        "competence2": "Piloter un produit, un service ou une équipe",
+        "competence3": "Maîtriser la qualité en projet Web ou multimédia",
+        "competence4": "Optimisation et évolution du site"
     },
     {
         "id": 7,
@@ -299,11 +318,13 @@
         "imageUrls5": [
             "projects/serreconstruction2.png"
         ],
-        "competence": "Competences du programme MMI3",
+        "competence": "Competences developpees",
         "competence1": "Développer des dispositifs interactifs sophistiqués : Arduino",
         "competence4": "Concevoir et développer des composants logiciels, plugins ou extensions",
         "competence2": "Piloter un produit, un service ou une équipe",
-        "competence3": "Maîtriser la qualité en projet Web ou multimédia"
+        "competence3": "Maîtriser la qualité en projet Web ou multimédia",
+        "competence5": "Travail d'équipe",
+        "competence6": "Webdesign et créativité"
     },
     {
         "id": 8,
@@ -345,8 +366,9 @@
         "imageUrls5": [
             "projects/fondbeige.png"
         ],
-        "competence": "Competences du programme MMI3",
-        "competence1": "Maitriser l'hébergement et le déploiement d'applications"
+        "competence": "Competences developpees",
+        "competence1": "Maitriser l'hébergement et le déploiement d'applications",
+        "competence2": "Maîtriser la qualité en projet Web ou multimédia"
     },
     {
         "id": 9,
@@ -388,9 +410,11 @@
         "imageUrls5": [
             "projects/petitfondbeige.png"
         ],
-        "competence": "Competences du programme MMI3",
+        "competence": "Competences developpees",
         "competence1": "Développer à l’aide d’un framework de développement côté client : React.js",
-        "competence2": "Maitriser l'hébergement et le déploiement d'applications"
+        "competence2": "Maitriser l'hébergement et le déploiement d'applications",
+        "competence3": "Piloter un produit, un service ou une équipe",
+        "competence4": "Webdesign et créativité"
     },
     {
         "id": 10,
@@ -431,7 +455,11 @@
         ],
         "imageUrls5": [
             "projects/irene10.png"
-        ]
+        ],
+        "competence": "Competences developpees",
+        "competence1": "Webdesign et créativité",
+        "competence2": "Piloter un produit, un service ou une équipe",
+        "competence3": "Maîtriser la qualité en projet Web ou multimédia"
     },
     {
         "id": 11,
@@ -476,7 +504,7 @@
         "imageUrls5": [
             "projects/api8.png"
         ],
-        "competence": "Competences du programme MMI3",
+        "competence": "Competences developpees",
         "competence1": "Développer à l’aide d’un framework de développement côté serveur : Node.js"
     },
     {
@@ -519,9 +547,54 @@
         "imageUrls5": [
             "projects/petitfondbeige.png"
         ],
-        "competence": "Competences du programme MMI3",
+        "competence": "Competences developees",
         "competence1": "Développer des dispositifs interactifs sophistiqués : Processing",
         "competence2": "Piloter un produit, un service ou une équipe",
-        "competence3": "Maitriser la qualité en projet web ou multimédia"
+        "competence3": "Maitriser la qualité en projet web ou multimédia",
+        "competence4": "Travail d'équipe"
+    },
+    {
+        "id": 13,
+        "title": "Projet d'entreprise",
+        "title2": "Projet réalisé dans le cadre Universitaire",
+        "soustitle1": "Creation d'un hotel, restaurant, bar, spa japonais.",
+        "description1": "L’objectif de ce projet était de réaliser un projet d'entreprenariat de A à Z. J'ai effectué ce projet avec Théo Borella. .",
+        "imageUrl": [
+            "projects/sakura1.png"
+        ],
+        "imageUrls": [
+            "projects/sakura2.png"
+        ],
+        "soustitle2": "Extrait.",
+        "imageUrl2": [
+            "projects/sakura3.png"
+        ],
+        "imageUrls2": [
+            "projects/sakura4.png"
+        ],
+        "soustitle3": "Extrait.",
+        "imageUrl3": [
+            "projects/sakura5.png"
+        ],
+        "imageUrls3": [
+            "projects/sakura6.png"
+        ],
+        "soustitle4": "Extrait.",
+        "imageUrl4": [
+            "projects/sakura7.png"
+        ],
+        "imageUrls4": [
+            "projects/sakura8.png"
+        ],
+        "soustitle5": "Extrait.",
+        "imageUrl5": [
+            "projects/sakura9.png"
+        ],
+        "imageUrls5": [
+            "projects/sakura10.png"
+        ],
+        "competence": "Competences du programme MMI3",
+        "competence1": "Concevoir un projet d’entreprise innovante en définissant le nom, l’identité, la forme juridique et le ton.",
+        "competence2": "Piloter un produit, un service ou une équipe"
     }
 ]

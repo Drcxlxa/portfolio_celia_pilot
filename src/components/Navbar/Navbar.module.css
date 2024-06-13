@@ -35,14 +35,15 @@
 
 .menuItems a {
   font-size: 20px;
-  color: #C0A997;
+  color: #9D8776;
   text-decoration: none;
   transition: color 0.2s ease, text-decoration 0.2s ease;
 }
 
 .menuItems a:hover {
-  color: #A08A7A;
+  color: #7B6453;
   text-decoration: underline;
+  text-underline-offset: 4px;
 }
 
 .logocelia {
