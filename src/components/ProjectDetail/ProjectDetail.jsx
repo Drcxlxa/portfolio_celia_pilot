@@ -135,6 +135,7 @@ export const ProjectDetail = () => {
 
 
             <section className={styles.container3}>
+                <button onClick={() => navigate('/#projects')} className={styles.backButton}> <GoArrowLeft className={styles.icon} /> Retour </button>
                 <div className={styles.containeroutils}>
                     <h3 className={styles.competence}>{project.competence}</h3>
                     <p className={styles.competences}>{project.competence1}</p>
