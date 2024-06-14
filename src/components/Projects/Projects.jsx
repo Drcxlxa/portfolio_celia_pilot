@@ -45,12 +45,14 @@ export const Projects = () => {
             </div>
             <div className={styles.projects}>
                 {filteredProjects.map((project) => (
-                    <div key={project.id} className={styles.project} style={{ backgroundImage: `url(${project.imageUrl})` }}>
-                        <Link to={`/project/${project.id}`}>
-                            <h3 className={styles.projectTitle}>{project.title}</h3>
-                        </Link>
-                        <h4 className={styles.projectTitle2}>{project.title2}</h4>
-                    </div>
+                    <Link to={`/project/${project.id}`}>
+                        <div key={project.id} className={styles.project} style={{ backgroundImage: `url(${project.imageUrl})` }}>
+                            <Link to={`/project/${project.id}`}>
+                                <h3 className={styles.projectTitle}>{project.title}</h3>
+                            </Link>
+                            <h4 className={styles.projectTitle2}>{project.title2}</h4>
+                        </div>
+                    </Link>
                 ))}
                 <img src={getImageUrl("projects/Tortue2.png")} alt="Hero myself" className={styles.tortue2} />
                 <img src={getImageUrl("projects/Tortue4.png")} alt="Hero myself" className={styles.tortue4} />
